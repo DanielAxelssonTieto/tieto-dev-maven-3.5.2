@@ -1,1 +1,0 @@
-# tieto-dev-maven-3.5.2
